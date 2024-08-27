@@ -8,3 +8,4 @@
 - [PySpaceSyntax](https://github.com/sideshownick/PySpaceSyntax): Calculate "Global Integration" spatial analysis measure from OpenStreetMaps .osm file
 - [space-syntaxNM](https://github.com/nmohareb2000/space-syntaxNM): "Open-source version of space syntax analysis (axial/segment) features user-friendly functions that can be easily tailored and edited to incorporate new experimental functionalities, requiring minimal coding knowledge."
 - [Space Syntax Toolkit (GIS plugin)](https://github.com/SpaceGroupUCL/qgisSpaceSyntaxToolkit): Space Syntax Toolkit for QGIS
+- [Space-Syntax-Analysis-for-R](https://github.com/alvincyh/Space-Syntax-Analysis-for-R): Patched R Script for Space Syntax Analysis from the FOSS4GIS Project 
